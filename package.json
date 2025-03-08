@@ -1,0 +1,15 @@
+{
+  "name": "playwright-sandbox-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com-emachadomartins:emachadomartins/playwright-sandbox-node.git",
+  "license": "MIT",
+  "devDependencies": {
+    "tsx": "^4.19.3",
+    "typescript": "^5.8.2"
+  },
+  "dependencies": {
+    "@playwright/browser-chromium": "^1.51.0",
+    "playwright": "^1.51.0"
+  }
+}
