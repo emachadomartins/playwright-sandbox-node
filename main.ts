@@ -15,4 +15,6 @@ const exec = async () => {
     await browser.close()
 }
 
-exec().then(console.log).catch(console.error)
+exec()
+    .then(console.log)
+    .catch(console.error)
